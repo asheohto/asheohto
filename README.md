@@ -1,8 +1,5 @@
 <div align="center">
 
-  <img src="logo.svg" width="130" alt="Logo" />
-  <br /><br />
-
   <a href="https://github.com/asheohto">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=F5C2E7&center=true&vCenter=true&width=550&lines=hey+i'm+ashe!;all+my+software+are+creamy;rust+%E2%80%A2+c%23+(.net+9+aot)+%E2%80%A2+win32+%E2%80%A2+ec%2Fwmi" alt="Typing Header" />
   </a>
@@ -39,7 +36,9 @@ aesthetic + bloatfree software.
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center" valign="top">
-      <h3 align="center">❄️ <a href="https://github.com/asheohto/cremecore">Cremecore</a></h3>
+      <br />
+      <img src="logo.svg" width="60" alt="Cremecore Logo" />
+      <h3 align="center"><a href="https://github.com/asheohto/cremecore">Cremecore</a></h3>
       <p align="center">
         <img src="https://img.shields.io/github/v/release/asheohto/cremecore?style=flat-square&color=BC96E6" alt="Release" />
         <img src="https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
