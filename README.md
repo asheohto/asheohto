@@ -42,7 +42,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/asheohto/cremecore">❄️ cremecore</a></h3>
+      <h3 align="center"><a href="https://github.com/asheohto/cremecore">❄️ Cremecore</a></h3>
       <p align="center">
         <img src="https://img.shields.io/github/v/release/asheohto/cremecore?style=flat-square&color=BC96E6" alt="Release" />
         <img src="https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
@@ -68,7 +68,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/asheohto/lyricreme">🎵 LyricReme</a></h3>
+      <h3 align="center"><a href="https://github.com/asheohto/lyricreme">🎵 Lyricreme</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
         <img src="https://img.shields.io/badge/Win32-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Win32" />
