@@ -48,7 +48,7 @@ aesthetic + bloatfree software.
     </td>
     <td width="50%" align="center" valign="top">
       <br />
-      <img src="assets/logo.png" width="60" alt="Cremey Logo" />
+      <img src="assets/logo.png" width="90" alt="Cremey Logo" />
       <h3 align="center"><a href="https://github.com/asheohto/cremey">Cremey</a></h3>
       <p align="center">
         <img src="https://img.shields.io/github/v/release/asheohto/cremey?style=flat-square&color=FAB387" alt="Release" />
@@ -61,7 +61,7 @@ aesthetic + bloatfree software.
   <tr>
     <td width="50%" align="center" valign="top">
       <br />
-      <img src="assets/lyricreme.png" width="60" alt="Lyricreme Logo" />
+      <img src="assets/lyricreme.png" width="70" alt="Lyricreme Logo" />
       <h3 align="center"><a href="https://github.com/asheohto/lyricreme">Lyricreme</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
@@ -72,7 +72,7 @@ aesthetic + bloatfree software.
     </td>
     <td width="50%" align="center" valign="top">
       <br />
-      <img src="assets/cremevox.png" width="60" alt="Cremevox Logo" />
+      <img src="assets/cremevox.png" width="50" alt="Cremevox Logo" />
       <h3 align="center"><a href="https://github.com/asheohto/cremevox">Cremevox</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Audio_Utility-F5C2E7?style=flat-square" alt="Audio Utility" />
