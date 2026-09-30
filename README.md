@@ -1,5 +1,8 @@
 <div align="center">
 
+  <img src="logo.svg" width="130" alt="Logo" />
+  <br /><br />
+
   <a href="https://github.com/asheohto">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=F5C2E7&center=true&vCenter=true&width=550&lines=hey+i'm+ashe!;all+my+software+are+creamy;rust+%E2%80%A2+c%23+(.net+9+aot)+%E2%80%A2+win32+%E2%80%A2+ec%2Fwmi" alt="Typing Header" />
   </a>
@@ -17,57 +20,65 @@
 
 ---
 
+<div align="center">
+
 hey! i'm ashe. i'm an electronic engineering student from malaysia and also a digital artist.
 
 when i'm not studying circuits or drawing, i like building tiny, native desktop tools for windows in rust and c#.
 
 aesthetic + bloatfree software.
 
+</div>
+
 ---
+
+<div align="center">
 
 ### 📦 featured projects
 
-<table>
+<table align="center" width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h3>❄️ <a href="https://github.com/asheohto/cremecore">Cremecore</a></h3>
-      <p>
+    <td width="50%" align="center" valign="top">
+      <h3 align="center">❄️ <a href="https://github.com/asheohto/cremecore">Cremecore</a></h3>
+      <p align="center">
         <img src="https://img.shields.io/github/v/release/asheohto/cremecore?style=flat-square&color=BC96E6" alt="Release" />
         <img src="https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
         <img src="https://img.shields.io/badge/Freya_GUI-7852FF?style=flat-square" alt="Freya" />
       </p>
-      <p>Lightweight fan controller & telemetry daemon for HP Omen/Victus laptops. Built in Rust with Freya GUI so I don't have to keep Omen Gaming Hub open.</p>
+      <p align="center">Lightweight fan controller & telemetry daemon for HP Omen/Victus laptops. Built in Rust with Freya GUI so I don't have to keep Omen Gaming Hub open.</p>
     </td>
-    <td width="50%" valign="top">
-      <h3>🎧 <a href="https://github.com/asheohto/cremey">Cremey</a></h3>
-      <p>
+    <td width="50%" align="center" valign="top">
+      <h3 align="center">🎧 <a href="https://github.com/asheohto/cremey">Cremey</a></h3>
+      <p align="center">
         <img src="https://img.shields.io/github/v/release/asheohto/cremey?style=flat-square&color=FAB387" alt="Release" />
         <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
         <img src="https://img.shields.io/badge/.NET_9_AOT-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="AOT" />
       </p>
-      <p>SteelSeries Sonar annihilator. Disables unwanted Sonar virtual audio endpoints on boot in 3 seconds, then shuts down completely. 0 MB idle RAM.</p>
+      <p align="center">SteelSeries Sonar annihilator. Disables unwanted Sonar virtual audio endpoints on boot in 3 seconds, then shuts down completely. 0 MB idle RAM.</p>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🎵 <a href="https://github.com/asheohto/lyricreme">Lyricreme</a></h3>
-      <p>
+    <td width="50%" align="center" valign="top">
+      <h3 align="center">🎵 <a href="https://github.com/asheohto/lyricreme">Lyricreme</a></h3>
+      <p align="center">
         <img src="https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
         <img src="https://img.shields.io/badge/Win32-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Win32" />
         <img src="https://img.shields.io/badge/Pear_Desktop-F5C2E7?style=flat-square" alt="Pear Desktop" />
       </p>
-      <p>Transparent, click-through desktop lyric overlay for Windows. Hooks into Pear Desktop & Tuna to auto-scroll synchronized lyrics on playback.</p>
+      <p align="center">Transparent, click-through desktop lyric overlay for Windows. Hooks into Pear Desktop & Tuna to auto-scroll synchronized lyrics on playback.</p>
     </td>
-    <td width="50%" valign="top">
-      <h3>🎙️ <a href="https://github.com/asheohto/cremevox">Cremevox</a></h3>
-      <p>
+    <td width="50%" align="center" valign="top">
+      <h3 align="center">🎙️ <a href="https://github.com/asheohto/cremevox">Cremevox</a></h3>
+      <p align="center">
         <img src="https://img.shields.io/badge/Audio_Utility-F5C2E7?style=flat-square" alt="Audio Utility" />
         <img src="https://img.shields.io/badge/AI_Noise_Cancellation-F5C2E7?style=flat-square" alt="AI Noise Cancellation" />
       </p>
-      <p>Lightweight audio utility with built-in AI noise cancellation, microphone enhancement tools, and real-time voice processing.</p>
+      <p align="center">Lightweight audio utility with built-in AI noise cancellation, microphone enhancement tools, and real-time voice processing.</p>
     </td>
   </tr>
 </table>
+
+</div>
 
 ---
 
