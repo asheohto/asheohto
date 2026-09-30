@@ -31,7 +31,7 @@ aesthetic + bloatfree software.
 
 <div align="center">
 
-### 📦 featured projects
+### 📦 creme family
 
 <table align="center" width="100%">
   <tr>
