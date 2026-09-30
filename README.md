@@ -47,7 +47,9 @@ aesthetic + bloatfree software.
       <p align="center">Lightweight fan controller & telemetry daemon for HP Omen/Victus laptops. Built in Rust with Freya GUI so I don't have to keep Omen Gaming Hub open.</p>
     </td>
     <td width="50%" align="center" valign="top">
-      <h3 align="center">🎧 <a href="https://github.com/asheohto/cremey">Cremey</a></h3>
+      <br />
+      <img src="assets/logo.png" width="60" alt="Cremey Logo" />
+      <h3 align="center"><a href="https://github.com/asheohto/cremey">Cremey</a></h3>
       <p align="center">
         <img src="https://img.shields.io/github/v/release/asheohto/cremey?style=flat-square&color=FAB387" alt="Release" />
         <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
