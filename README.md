@@ -49,7 +49,7 @@ aesthetic + bloatfree software.
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
+    <td width="50%" valign="top">
       <h3>🎵 <a href="https://github.com/asheohto/lyricreme">Lyricreme</a></h3>
       <p>
         <img src="https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
@@ -57,6 +57,14 @@ aesthetic + bloatfree software.
         <img src="https://img.shields.io/badge/Pear_Desktop-F5C2E7?style=flat-square" alt="Pear Desktop" />
       </p>
       <p>Transparent, click-through desktop lyric overlay for Windows. Hooks into Pear Desktop & Tuna to auto-scroll synchronized lyrics on playback.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎙️ <a href="https://github.com/asheohto/cremevox">Cremevox</a></h3>
+      <p>
+        <img src="https://img.shields.io/badge/Audio-Utility-F5C2E7?style=flat-square" alt="Audio" />
+        <img src="https://img.shields.io/badge/AI-Noise_Cancellation-BC96E6?style=flat-square" alt="AI Noise Cancellation" />
+      </p>
+      <p>Lightweight audio utility with built-in AI noise cancellation, microphone enhancement tools, and real-time voice processing.</p>
     </td>
   </tr>
 </table>
