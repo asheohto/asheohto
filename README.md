@@ -19,9 +19,9 @@
 
 hey! i'm ashe. i'm an electronic engineering student from malaysia and also a digital artist.
 
-when i'm not studying circuits or drawing, i like building tiny, native desktop tools for windows in rust and c#. because of my electronics and hardware background, i really enjoy poking at low-level systems — like embedded controller (ec) registers, wmi bios calls, and audio routing. 
+when i'm not studying circuits or drawing, i like building tiny, native desktop tools for windows in rust and c#.
 
-i love combining aesthetic, bloat-free design with native code that starts in milliseconds and consumes virtually 0 mb of background ram.
+aesthetic + bloatfree software.
 
 ---
 
