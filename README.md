@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://github.com/asheohto">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=F5C2E7&center=true&vCenter=true&width=550&lines=hi%2C+i'm+marya+%2F+ashe+%F0%9F%91%8B;making+tools+so+my+laptop+fans+stop+screaming;rust+%E2%80%A2+c%23+(.net+9+aot)+%E2%80%A2+win32+%E2%80%A2+ec%2Fwmi;killing+bloatware+one+process+at+a+time" alt="Typing Header" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=F5C2E7&center=true&vCenter=true&width=550&lines=hey%2C+im+ashe;all+my+software+are+creamy;rust+%E2%80%A2+c%23+(.net+9+aot)+%E2%80%A2+win32+%E2%80%A2+ec%2Fwmi" alt="Typing Header" />
   </a>
 
   <p align="center">
