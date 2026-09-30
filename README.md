@@ -76,7 +76,7 @@ aesthetic + bloatfree software.
       <h3 align="center"><a href="https://github.com/asheohto/cremevox">Cremevox</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Audio_Utility-F5C2E7?style=flat-square" alt="Audio Utility" />
-        <img src="https://img.shields.io/badge/AI_Noise_Cancellation-F5C2E7?style=flat-square" alt="AI Noise Cancellation" />
+        <img src="https://img.shields.io/badge/AI_Noise_Cancellation-98FF98?style=flat-square" alt="AI Noise Cancellation" />
       </p>
       <p align="center">Lightweight audio utility with built-in AI noise cancellation, microphone enhancement tools, and real-time voice processing.</p>
     </td>
