@@ -1,8 +1,6 @@
 <div align="center">
-
-  <a href="https://github.com/asheohto">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=F5C2E7&center=true&vCenter=true&width=550&lines=hey+i'm+ashe!;all+my+software+are+creamy;rust+%E2%80%A2+c%23+(.net+9+aot)+%E2%80%A2+win32+%E2%80%A2+ec%2Fwmi" alt="Typing Header" />
-  </a>
+  
+[![Typing Header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=F5C2E7&center=true&vCenter=true&width=550&lines=hey+i'm+ashe!;all+my+software+are+creamy;rust+%E2%80%A2+c%23+(.net+9+aot)+%E2%80%A2+win32+%E2%80%A2+ec%2Fwmi;%F0%93%80%80+%E2%8B%86.%CB%9A+%F0%93%86%89+%F0%93%86%9D+%F0%93%86%A1%E2%8B%86.%CB%9A+%F0%93%80%80)](https://github.com/asheohto)
 
   <p align="center">
     <em>Electronic engineering student & digital artist from Malaysia 🇲🇾</em>
@@ -31,7 +29,7 @@ aesthetic + bloatfree software.
 
 <div align="center">
 
-### 📦 creme family
+### 📦 creme family ⚞^. .^⚟
 
 <table align="center" width="100%">
   <tr>
