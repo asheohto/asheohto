@@ -47,7 +47,7 @@ aesthetic + bloatfree software.
     <td width="50%" align="center" valign="top">
       <br />
       <img src="assets/logo.png" width="90" alt="Cremey Logo" />
-      <h3 align="center"><a href="https://github.com/asheohto/cremey">Cremey</a></h3>
+      <h3 align="center"><a href="https://github.com/asheohto/cremeGG">Cremey</a></h3>
       <p align="center">
         <img src="https://img.shields.io/github/v/release/asheohto/cremey?style=flat-square&color=FAB387" alt="Release" />
         <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
