@@ -37,7 +37,7 @@ aesthetic + bloatfree software.
   <tr>
     <td width="50%" align="center" valign="top">
       <br />
-      <img src="logo.svg" width="60" alt="Cremecore Logo" />
+      <img src="cremecore.png" width="60" alt="Cremecore Logo" />
       <h3 align="center"><a href="https://github.com/asheohto/cremecore">Cremecore</a></h3>
       <p align="center">
         <img src="https://img.shields.io/github/v/release/asheohto/cremecore?style=flat-square&color=BC96E6" alt="Release" />
